@@ -12,7 +12,7 @@ package fabricasoftware;
 public class DesarrolladorPhp {
     public  Persona nombreDesarrolladorPhp;
   public  Persona edadDesarrolladorPhp;
-  public  double sueldoDesarrolladorPhp;
+  public  float sueldoDesarrolladorPhp;
   public Persona fechaNacimentoDesarrolladorPhp;
  
 }

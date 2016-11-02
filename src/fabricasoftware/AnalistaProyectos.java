@@ -12,7 +12,7 @@ package fabricasoftware;
 public class AnalistaProyectos extends Persona{
   public  Persona nombreAnalista;
   public  Persona edadAnalista;
-  public  double sueldo;
+  public  float sueldo;
   public Persona fechaNacimentoAnalista;
   
     

@@ -12,6 +12,6 @@ package fabricasoftware;
 public class DesarrolladorOracle {
    public  Persona nombreDesarrolladorOracle;
   public  Persona edadDesarrolladorOracle;
-  public  double sueldoDesarrolladorOracle;
+  public  float sueldoDesarrolladorOracle;
   public Persona fechaNacimentoOracle; 
 }

@@ -12,6 +12,6 @@ package fabricasoftware;
 public class Tester extends Persona{
   public  Persona nombreTester;
   public  Persona edadTester;
-  public  double sueldoTester;
+  public  float sueldoTester;
   public Persona Tester;
 }

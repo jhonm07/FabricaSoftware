@@ -12,6 +12,6 @@ package fabricasoftware;
 public class DesarrolladorJava extends Persona {
   public  Persona nombreDesarrolladorJava;
   public  Persona edadDesarrolladorJava;
-  public  double sueldoDesarrolladorJava;
+  public  float sueldoDesarrolladorJava;
   public Persona fechaNacimentoDesarrolladorJava;  
 }

@@ -13,5 +13,5 @@ public class GerenteProyectos extends Persona {
     public Persona nombreGerente;
     public Persona edadGerente;
     public String Cargo;
-    public double sueldo;
+    public float sueldo;
 }
